@@ -2,6 +2,9 @@
 
 A Streamlit-based web application that classifies customer banking complaints into their appropriate handling categories using a fine-tuned Hugging Face transformer model.
 
+# Live -https://banking-complaint-classifier-app.streamlit.app/
+# model hugging face-https://huggingface.co/Priyanshub009/banking_complaint_classfier_new
+
 ## Features
 
 - **AI-Powered Classification**: Uses a fine-tuned RoBERTa model for accurate complaint categorization
